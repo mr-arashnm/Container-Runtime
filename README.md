@@ -16,7 +16,7 @@ This project is a Python-based container runtime simulator designed for educatio
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/container-runtime-simulator.git
+   git clone https://github.com/mr-arashnm/container-runtime.git
    cd container-runtime-simulator
    ```
 
